@@ -5,7 +5,7 @@
 class Clientes extends MY_Controller
 {
     /**
-     * author: Ramon Silva
+     * author: LM Soluções Tecnologicas
      * email: silva018-mg@yahoo.com.br
      *
      */

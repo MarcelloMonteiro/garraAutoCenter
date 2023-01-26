@@ -111,5 +111,5 @@ Doações podem ser realizadas nos links:
 | [<img src="https://avatars.githubusercontent.com/seitbnao?s=115"><br><sub>Djunio</sub>](https://github.com/seitbnao) | [<img src="https://avatars.githubusercontent.com/MilsonElias?s=115"><br><sub>Milson Elias</sub>](https://github.com/MilsonElias) | [<img src="https://avatars.githubusercontent.com/Rodrigo-Paz?s=115"><br><sub>Rodrigo Paz</sub>](https://github.com/Rodrigo-Paz) | [<img src="https://avatars.githubusercontent.com/lukasabino?s=115"><br><sub>Luka Sabino</sub>](https://github.com/lukasabino)
 
 ## Autor
-| [<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>Ramon Silva</sub>](https://github.com/RamonSilva20) |
+| [<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>LM Soluções Tecnologicas</sub>](https://github.com/RamonSilva20) |
 | :---: |

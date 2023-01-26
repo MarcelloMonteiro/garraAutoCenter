@@ -9,7 +9,7 @@ if (! defined('BASEPATH')) {
 class Vendas_model extends CI_Model
 {
     /**
-     * author: Ramon Silva
+     * author: LM Soluções Tecnologicas
      * email: silva018-mg@yahoo.com.br
      *
      */
